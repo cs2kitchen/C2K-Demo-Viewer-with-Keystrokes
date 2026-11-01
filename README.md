@@ -70,4 +70,5 @@ Settings, presets and demo caches are stored in `%LOCALAPPDATA%\C2KDemoViewer`. 
 ## Problems or feedback
 
 Open an issue with the app version, your Windows version and the steps that caused the problem. Add a screenshot if it helps. Check logs and screenshots for personal information before posting them; don't attach private demos or voice recordings.
+Project is AI assisted.
 
