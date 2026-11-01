@@ -4,7 +4,7 @@ A Windows app for watching CS2 demos with a custom input overlay and player HUD.
 
 Open a demo, pick a player and see their recorded movement, attacks, velocity and weapon information. Step through ticks and rounds, change the overlay layout, or launch the demo in CS2 and record it with OBS.
 
-![C2K Demo Viewer](docs/screenshots/overview.png)
+![C2K Demo Viewer](./overview.png)
 
 ## Download
 
@@ -49,11 +49,11 @@ You can also export the input overlay, or combine it with existing gameplay foot
 
 ## Appearance
 
-![Overlay settings](docs/screenshots/appearance.png)
+![Overlay settings](./appearance.png)
 
 ## Overlay studio
 
-![Overlay layout editor](docs/screenshots/overlay-studio.png)
+![Overlay layout editor](./overlay-studio.png)
 
 These are interface previews from version 0.20.2. The layout editor uses sample player data; it isn't a screenshot of a live match.
 
