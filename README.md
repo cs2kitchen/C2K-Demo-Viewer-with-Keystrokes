@@ -1,6 +1,6 @@
 # C2K Demo Viewer
 
-A Windows app for watching CS2 demos with a custom input overlay and player HUD. Built by **cs2kitchen**.
+A Windows app for watching CS2 demos with a custom input overlay and player HUD.
 
 Open a demo, pick a player and see their recorded movement, attacks, velocity and weapon information. Step through ticks and rounds, change the overlay layout, or launch the demo in CS2 and record it with OBS.
 
